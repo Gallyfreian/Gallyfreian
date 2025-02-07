@@ -38,8 +38,4 @@ Fullstack-Developer in the making
 
             
 
-![Snake animation](https://github.com/Gallyfreian/Gallyfreian/blob/output/github-contribution-grid-snake.svg)
-
-
-
 
